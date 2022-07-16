@@ -11,7 +11,7 @@ Various calculations for risk management are completed including: daily returns,
 
 ![Rolling_21_Day_Standard_Deviation](https://github.com/rrmangum/Portfolio_Risk_Return_Analysis/blob/main/Images/Rolling_21_Day_Standard_Deviation.png?raw=true)
 
-Ultimately I reccomend Tiger Global Management LLC as the main fund to be included in our client portfolios. While, Berkshire Hathaway INC returns greater prfits, the risk associated with those returns is much higher than the risk level from Tiger Global Management LLC.
+Ultimately I reccomend Tiger Global Management LLC as the main fund to be included in our client portfolios. While, Berkshire Hathaway INC returns greater profits, the risk associated with those returns is much higher than the risk level from Tiger Global Management LLC.
 
 ---
 
